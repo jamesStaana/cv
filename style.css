@@ -1,0 +1,66 @@
+body{
+	margin:0;
+	text-align:center;
+	font-family: 'Merriweather Sans', sans-serif;
+
+}
+h1 {
+	margin-top:0;
+	font-family: 'Sacramento', cursive;
+	color:#ff8585
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+}
+h3{
+	font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+	background-color:#E4F9F5;
+	position:relative;
+	padding-top:50px;
+
+}
+.top-cloud{
+	width:80px; 
+	position:absolute;
+	left:80px;
+}
+.mountain{
+	width:300px;
+}
+.bottom-cloud{
+	width:80px;
+	position:absolute;
+	right:100px;
+}
+
+.middle-container{
+	
+
+}
+.prof-pict{
+	height:200px;
+	width:200px;
+	border-radius: 100%;
+
+}
+.bot-pict{
+	height:200px;
+	width:200px;
+	border-radius:100%;
+}
+
+.bottom-container{
+
+}
+
+.lea{
+	border-image: 100%;
+	border-radius: 100px;
+}
+
+.pro{
+	color:#79a3b1;
+	text-decoration: underline;
+}
